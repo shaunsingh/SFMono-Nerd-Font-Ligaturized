@@ -22,7 +22,7 @@ cp *.otf ~/.local/share/fonts
 Needs a working installation of `brew`
 ```sh
 brew tap shaunsingh/SFMono-Nerd-Font-Ligaturized
-brew install --caks font--sf-mono-nerd-font-ligaturized
+brew install --cask font-sf-mono-nerd-font-ligaturized
 ```
 
 ### Nix (flake)
